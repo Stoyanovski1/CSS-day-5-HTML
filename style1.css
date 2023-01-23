@@ -1,0 +1,125 @@
+.container {
+    font-weight: bold;
+    width: 450px;
+    max-width: 100%;
+    max-height: 850px;
+    margin: 0 auto;
+    padding: 0px 5px 5px 5px;
+    border: 2px solid black;
+    overflow: hidden;
+}
+
+.first-c {
+    background-color: whitesmoke;
+    border-bottom: 15px solid black;
+}
+
+.first-c1 {
+    text-align: end;
+}
+
+.p1 {
+    margin: 0;
+}
+
+.p2 {
+    margin: 0;
+}
+
+.first-con {
+    display: flex;
+}
+
+.fb {
+    margin: 1px;
+    flex-basis: 100%;
+}
+
+.ob {
+    margin: 1px;
+    flex-basis: 40%;
+    text-align: end;
+}
+
+#border-black {
+    border-top: 2px solid black;
+}
+
+#gray-border {
+    margin-inline-start: 15px;
+    border-top: 2px solid gray;
+}
+
+.end {
+    border-top: 7px solid black;
+    margin: 0;
+    padding: 0;
+    text-align: end;
+}
+
+.end p {
+    margin: 0;
+}
+
+#black15 {
+    border-top: 15px solid black;
+}
+
+.calorie {
+    margin: 0;
+    display: flex;
+    justify-content: end;
+}
+
+.fb1 {
+    flex-basis: 50%;
+    margin: 0px;
+}
+
+.ob1 {
+    flex-basis: 25%;
+    margin: 0px;
+}
+
+.calorie1 {
+    display: flex;
+    justify-content: end;
+    margin: 0;
+}
+
+.fb11 {
+    flex-basis: 20%;
+    margin: 0;
+}
+
+.ob11 {
+    margin: 0;
+    flex-basis: 20%;
+}
+
+#cal2 {
+    margin-inline-start: 17px;
+}
+
+.fb111 {
+    flex-basis: 70%;
+    margin: 0;
+}
+
+.ob111 {
+    flex-basis: 39%;
+    margin: 0;
+}
+
+.last {
+    margin: 0;
+}
+
+.last p {
+    margin: 0;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+}
